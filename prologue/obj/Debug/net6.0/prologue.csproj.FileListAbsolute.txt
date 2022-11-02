@@ -1,0 +1,15 @@
+C:\Users\jerik\Documents\codes\csharp_things\prologue\bin\Debug\net6.0\prologue.exe
+C:\Users\jerik\Documents\codes\csharp_things\prologue\bin\Debug\net6.0\prologue.deps.json
+C:\Users\jerik\Documents\codes\csharp_things\prologue\bin\Debug\net6.0\prologue.runtimeconfig.json
+C:\Users\jerik\Documents\codes\csharp_things\prologue\bin\Debug\net6.0\prologue.dll
+C:\Users\jerik\Documents\codes\csharp_things\prologue\bin\Debug\net6.0\prologue.pdb
+C:\Users\jerik\Documents\codes\csharp_things\prologue\obj\Debug\net6.0\prologue.csproj.AssemblyReference.cache
+C:\Users\jerik\Documents\codes\csharp_things\prologue\obj\Debug\net6.0\prologue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerik\Documents\codes\csharp_things\prologue\obj\Debug\net6.0\prologue.AssemblyInfoInputs.cache
+C:\Users\jerik\Documents\codes\csharp_things\prologue\obj\Debug\net6.0\prologue.AssemblyInfo.cs
+C:\Users\jerik\Documents\codes\csharp_things\prologue\obj\Debug\net6.0\prologue.csproj.CoreCompileInputs.cache
+C:\Users\jerik\Documents\codes\csharp_things\prologue\obj\Debug\net6.0\prologue.dll
+C:\Users\jerik\Documents\codes\csharp_things\prologue\obj\Debug\net6.0\refint\prologue.dll
+C:\Users\jerik\Documents\codes\csharp_things\prologue\obj\Debug\net6.0\prologue.pdb
+C:\Users\jerik\Documents\codes\csharp_things\prologue\obj\Debug\net6.0\prologue.genruntimeconfig.cache
+C:\Users\jerik\Documents\codes\csharp_things\prologue\obj\Debug\net6.0\ref\prologue.dll

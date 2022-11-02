@@ -19,4 +19,6 @@ It is mainly for the games, or its popularity, I got hooked up to monogame at so
 - make some games
 - make some apps
 
+# How do I start?
 
+Start from the prologue, then day 1, day 2, day 3, well you get the point...

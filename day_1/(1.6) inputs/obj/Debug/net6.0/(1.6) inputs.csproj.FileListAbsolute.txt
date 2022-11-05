@@ -1,0 +1,15 @@
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.6) inputs\bin\Debug\net6.0\(1.6) inputs.exe
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.6) inputs\bin\Debug\net6.0\(1.6) inputs.deps.json
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.6) inputs\bin\Debug\net6.0\(1.6) inputs.runtimeconfig.json
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.6) inputs\bin\Debug\net6.0\(1.6) inputs.dll
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.6) inputs\bin\Debug\net6.0\(1.6) inputs.pdb
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.6) inputs\obj\Debug\net6.0\(1.6) inputs.csproj.AssemblyReference.cache
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.6) inputs\obj\Debug\net6.0\(1.6) inputs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.6) inputs\obj\Debug\net6.0\(1.6) inputs.AssemblyInfoInputs.cache
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.6) inputs\obj\Debug\net6.0\(1.6) inputs.AssemblyInfo.cs
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.6) inputs\obj\Debug\net6.0\(1.6) inputs.csproj.CoreCompileInputs.cache
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.6) inputs\obj\Debug\net6.0\(1.6) inputs.dll
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.6) inputs\obj\Debug\net6.0\refint\(1.6) inputs.dll
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.6) inputs\obj\Debug\net6.0\(1.6) inputs.pdb
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.6) inputs\obj\Debug\net6.0\(1.6) inputs.genruntimeconfig.cache
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.6) inputs\obj\Debug\net6.0\ref\(1.6) inputs.dll

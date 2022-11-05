@@ -1,0 +1,15 @@
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.2) basic print and input\bin\Debug\net6.0\(1.2) basic print and input.exe
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.2) basic print and input\bin\Debug\net6.0\(1.2) basic print and input.deps.json
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.2) basic print and input\bin\Debug\net6.0\(1.2) basic print and input.runtimeconfig.json
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.2) basic print and input\bin\Debug\net6.0\(1.2) basic print and input.dll
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.2) basic print and input\bin\Debug\net6.0\(1.2) basic print and input.pdb
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.2) basic print and input\obj\Debug\net6.0\(1.2) basic print and input.csproj.AssemblyReference.cache
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.2) basic print and input\obj\Debug\net6.0\(1.2) basic print and input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.2) basic print and input\obj\Debug\net6.0\(1.2) basic print and input.AssemblyInfoInputs.cache
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.2) basic print and input\obj\Debug\net6.0\(1.2) basic print and input.AssemblyInfo.cs
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.2) basic print and input\obj\Debug\net6.0\(1.2) basic print and input.csproj.CoreCompileInputs.cache
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.2) basic print and input\obj\Debug\net6.0\(1.2) basic print and input.dll
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.2) basic print and input\obj\Debug\net6.0\refint\(1.2) basic print and input.dll
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.2) basic print and input\obj\Debug\net6.0\(1.2) basic print and input.pdb
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.2) basic print and input\obj\Debug\net6.0\(1.2) basic print and input.genruntimeconfig.cache
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.2) basic print and input\obj\Debug\net6.0\ref\(1.2) basic print and input.dll

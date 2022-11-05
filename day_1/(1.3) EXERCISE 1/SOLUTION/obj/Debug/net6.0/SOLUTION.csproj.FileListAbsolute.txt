@@ -1,0 +1,15 @@
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.3) EXERCISE 1\SOLUTION\obj\Debug\net6.0\SOLUTION.csproj.AssemblyReference.cache
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.3) EXERCISE 1\SOLUTION\obj\Debug\net6.0\SOLUTION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.3) EXERCISE 1\SOLUTION\obj\Debug\net6.0\SOLUTION.AssemblyInfoInputs.cache
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.3) EXERCISE 1\SOLUTION\obj\Debug\net6.0\SOLUTION.AssemblyInfo.cs
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.3) EXERCISE 1\SOLUTION\obj\Debug\net6.0\SOLUTION.csproj.CoreCompileInputs.cache
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.3) EXERCISE 1\SOLUTION\bin\Debug\net6.0\SOLUTION.exe
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.3) EXERCISE 1\SOLUTION\bin\Debug\net6.0\SOLUTION.deps.json
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.3) EXERCISE 1\SOLUTION\bin\Debug\net6.0\SOLUTION.runtimeconfig.json
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.3) EXERCISE 1\SOLUTION\bin\Debug\net6.0\SOLUTION.dll
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.3) EXERCISE 1\SOLUTION\bin\Debug\net6.0\SOLUTION.pdb
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.3) EXERCISE 1\SOLUTION\obj\Debug\net6.0\SOLUTION.dll
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.3) EXERCISE 1\SOLUTION\obj\Debug\net6.0\refint\SOLUTION.dll
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.3) EXERCISE 1\SOLUTION\obj\Debug\net6.0\SOLUTION.pdb
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.3) EXERCISE 1\SOLUTION\obj\Debug\net6.0\SOLUTION.genruntimeconfig.cache
+C:\Users\jerik\Documents\codes\csharp_things\day_1\(1.3) EXERCISE 1\SOLUTION\obj\Debug\net6.0\ref\SOLUTION.dll

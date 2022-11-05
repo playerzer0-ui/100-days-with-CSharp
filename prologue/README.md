@@ -93,4 +93,12 @@ now try clicking the play button
 
 if that is the result you get, you should be ready to start learning C#
 
+## extra: to make life a bit easier
 
+go to .csproj in that folder, you should see all this
+
+![](images/sc2.jpg)
+
+find nullable
+
+replace the word "enable" to "disable"

@@ -22,3 +22,6 @@ It is mainly for the games, or its popularity, I got hooked up to monogame at so
 # How do I start?
 
 Start from the prologue, then day 1, day 2, day 3, well you get the point...
+
+- [a_prologue](https://github.com/playerzer0-ui/100-days-with-CSharp/tree/main/a_prologue)
+- [day_1](https://github.com/playerzer0-ui/100-days-with-CSharp/tree/main/day_1)

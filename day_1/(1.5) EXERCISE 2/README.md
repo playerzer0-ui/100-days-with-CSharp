@@ -2,6 +2,8 @@
 
 download sample code (or copy paste to your editor)
 
+[sample code](https://github.com/playerzer0-ui/100-days-with-CSharp/blob/main/day_1/(1.5)%20EXERCISE%202/Sample.cs)
+
 your objective is to print the total of the two variables, which is 10.
 
 ...
